@@ -1,8 +1,8 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Josh
-
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Josh <img src="https://media.tenor.com/images/0a9f1b86a9f5b3a5899f9a9f7f0a9f2b/tenor.gif" width="200" height="200">
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Currently+becoming+a+Data+Scientist+%26+Ai+Specialist+-;Lets+grow+together!+%3C3) 
+
 
 ### 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
