@@ -1,7 +1,12 @@
-# Hi 👋, I'm Joschua Schramm 🧑‍💻 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
+# Hi 👋, I'm Joschua Schramm 🧑‍💻 
+<div style="text-align: right;">
+  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
+</div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Becoming+a+Data+Scientist+%26+Ai+Specialist;Lets+grow+together!+%3C3)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="60" height="60" />
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Becoming+a+Data+Scientist+%26+Ai+Specialist;Lets+grow+together!+%3C3)
+<div style="text-align: right;">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="60" height="60" />
+</div>
 
 ## 📈 Visitor Count
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
