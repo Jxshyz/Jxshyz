@@ -2,7 +2,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=..becoming+a+Data+Scientist+%26+Ai+Specialist+-;Lets+grow+together!+%3C3) 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Currently+becoming+a+Data+Scientist+%26+Ai+Specialist+-;Lets+grow+together!+%3C3) 
 
 ### 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
