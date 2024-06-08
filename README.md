@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <p>## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Josh </p>
+  <p>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Josh </p>
 </div>
 
 
