@@ -1,7 +1,9 @@
 # Hi 👋, I'm Joschua Schramm 🧑‍💻
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Becoming+a+Data+Scientist+%26+Ai+Specialist;Lets+grow+together!+%3C3)      <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="60" height="60" />
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Becoming+a+Data+Scientist+%26+Ai+Specialist;Lets+grow+together!+%3C3)                                <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="60" height="60" />
 
+## 📈 Visitor Count
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
 
 ## 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
@@ -21,7 +23,6 @@
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jxshyz&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxshyz&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jxshyz&theme=radical)
 
 ## 🏆 GitHub Trophies
