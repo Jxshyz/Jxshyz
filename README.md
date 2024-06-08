@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Lets+grow+together!+<3;Currently+studying+DataSciene+and+Ai+-) 
 
 
-## 💻 **Languages and Tools:**
+## 💻 **Skillset so far:**
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sqlite)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
