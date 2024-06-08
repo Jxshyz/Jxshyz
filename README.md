@@ -1,6 +1,10 @@
 # Hi 👋, I'm Joschua Schramm 🧑‍💻
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Becoming+a+Data+Scientist+%26+AI+specialist;Join+and+grow+with+me+together!+%3C3)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Becoming+a+Data+Scientist+%26+Ai+Specialist;Lets+grow+together!+%3C3)
+
+Currently studying DataScience & Ai @ university of applied sciences in Düsseldorf, Germany 
+
+![GIF](https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif)
 
 ## 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
@@ -19,18 +23,19 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
 ## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jxshyz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jxshyz&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jxshyz&theme=radical)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jxhsyz&theme=radical)
 
 ## 📈 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/your-profile/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your-profile/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+[![Mail](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:Joschua.Schramm@yahoo.com)
+[![Chess.com](https://img.shields.io/badge/Chess.com-FFCC00?style=flat&logo=chess.com&logoColor=black)](https://www.chess.com/member/sudo_su_me)
+
 
