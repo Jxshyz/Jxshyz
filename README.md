@@ -1,10 +1,7 @@
 # Hi 👋, I'm Joschua Schramm 🧑‍💻
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Becoming+a+Data+Scientist+%26+Ai+Specialist;Lets+grow+together!+%3C3)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Becoming+a+Data+Scientist+%26+Ai+Specialist;Lets+grow+together!+%3C3)      <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="60" height="60" />
 
-Currently studying DataScience & Ai @ university of applied sciences in Düsseldorf, Germany 
-
-![GIF](https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif)
 
 ## 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
