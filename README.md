@@ -1,11 +1,11 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Joschua Schramm and currently...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="90" height="90" />
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Joschua Schramm and currently...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="60" height="60" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=..becoming+a+Data+Scientist+%26+Ai+Specialist+-;Lets+grow+together!+%3C3) 
 
-## 📈 Visitor Count
+### 📈 Visitor Count
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
 
-## 💻 Languages and Tools:
+### 💻 Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sqlite)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
@@ -21,16 +21,14 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jxshyz&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jxshyz&theme=radical)
 
-## 📈 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
-
-## 🌐 Connect with me:
+### 🌐 Connect with me:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
 [![Mail](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:Joschua.Schramm@yahoo.com)
 [![Chess.com](https://img.shields.io/badge/Chess.com-FFCC00?style=flat&logo=chess.com&logoColor=black)](https://www.chess.com/member/sudo_su_me)
 
-
+### 📈 Visitor Count
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
