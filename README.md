@@ -28,8 +28,6 @@
 [![Mail](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:Joschua.Schramm@yahoo.com)
 [![Chess.com](https://img.shields.io/badge/Chess.com-FFCC00?style=flat&logo=chess.com&logoColor=black)](https://www.chess.com/member/sudo_su_me)
 
-## <u>📈 Visitor Count</u>
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
-
 ### 🎉 Random Data Science Meme:
 <img src="https://datasciencedojo.com/wp-content/uploads/55.jpeg" alt="Data Science Meme" width="500" height="400">
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
