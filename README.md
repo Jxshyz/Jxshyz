@@ -32,4 +32,4 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
 
 ### 🎉 Random Data Science Meme:
-![Data Science Meme](https://datasciencedojo.com/wp-content/uploads/55.jpeg)
+<img src="https://datasciencedojo.com/wp-content/uploads/55.jpeg" alt="Data Science Meme" width="400" height="300">
