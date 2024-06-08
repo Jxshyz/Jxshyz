@@ -1,6 +1,6 @@
 ##  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Josh ![Heart GIF](https://media.tenor.com/images/0a9f1b86a9f5b3a5899f9a9f7f0a9f2b/tenor.gif) q:^)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Lets+grow+together!;Currently+becoming+a+Data+Science+%26+Ai+Specialist+-+%3C3) 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Lets+grow+together!;Currently+becoming+a+Data+Science+&+Ai+Specialist+-+%3C3) 
 
 
 ## 💻 **Languages and Tools:**
