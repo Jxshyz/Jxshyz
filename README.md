@@ -30,3 +30,6 @@
 
 ### <u>📈 Visitor Count</u>
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
+
+### 🎉 Random Data Science Meme:
+![Data Science Meme](https://datasciencedojo.com/wp-content/uploads/55.jpeg)
