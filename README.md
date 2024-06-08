@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Currently+becoming+a+Data+Scientist+%26+Ai+Specialist+-;Lets+grow+together!+%3C3) 
 
-### <u>💻 Languages and Tools:</u>
+### 💻 <u>Languages and Tools:</u>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=sqlite)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat&logo=pandas)
