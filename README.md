@@ -31,4 +31,4 @@
 [![Mail](https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=flat&logo=yahoo&logoColor=white)](mailto:Joschua.Schramm@yahoo.com)
 [![Chess.com](https://img.shields.io/badge/Chess.com-FFCC00?style=flat&logo=chess.com&logoColor=black)](https://www.chess.com/member/sudo_su_me)
 
-![profile views](https://visitor-badge.laobi.icu/badge?page_id=Jxshyz.Jxshyz)
+![profile views](https://visitor-badge.laobi.icu/badge?page_id=hehuapei.hehuapei)
